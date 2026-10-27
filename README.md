@@ -44,18 +44,6 @@ Desenvolver um aplicativo mobile que centralize a busca, a comparação e o agen
 
 ## Principais tecnologias previstas
 
-### Aplicativo mobile
-- **React Native com Expo** — desenvolvimento multiplataforma (Android e iOS)
-- **TypeScript** — linguagem do aplicativo
-- **Expo Router** — navegação entre telas
-- **TanStack Query** — consumo da API e gerenciamento de estado
-
-### Backend
-- **PHP 8.3 com Laravel 11** — API REST
-- **Laravel Sanctum** — autenticação por token
-- **Eloquent ORM** — mapeamento objeto-relacional
-- **Filament** — painel administrativo
-
-### Banco de dados
-- **MySQL 8.0** — SGBD relacional
-- **MySQL Workbench** — modelagem do DER
+- **React Native com Expo**: aplicativo mobile para Android e iOS
+- **Laravel (PHP)**: API REST
+- **MySQL**: banco de dados relacional
